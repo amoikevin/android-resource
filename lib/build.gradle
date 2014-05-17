@@ -20,5 +20,6 @@ apply from: '../config/android-library.gradle'
 apply from: '../config/maven_push.gradle'
 
 dependencies {
+    compile 'com.github.matthewyork:ColoursLibrary:1.0.+@aar'
 }
 
