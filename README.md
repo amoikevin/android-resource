@@ -1,6 +1,17 @@
 #android-resource 
 
-android lib - resource, like string, ids, color,drawable etc. 
+##Introduction
+android lib - resource
+android resource, like string, ids, color,drawable etc. 
+
+##System requirements
+Android 2.2+
+
+##Dependence
+1.ColoursLibrary [https://github.com/MatthewYork/Colours](https://github.com/MatthewYork/Colours)       
+A beautiful set of predefined colors and a set of color methods to make your Android development life easier.
+                  
+
 
 ##License
 ```
