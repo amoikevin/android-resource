@@ -7,11 +7,11 @@ android resource, like string, ids, color,drawable etc.
 ##System requirements
 Android 2.2+
 
-##Dependence
+##Dependencies
 1.ColoursLibrary [https://github.com/MatthewYork/Colours](https://github.com/MatthewYork/Colours)       
 A beautiful set of predefined colors and a set of color methods to make your Android development life easier.
                   
-
+Check this for more informaion. [build.gradle](https://github.com/snowdream/android-resource/blob/master/lib/build.gradle)
 
 ##License
 ```
